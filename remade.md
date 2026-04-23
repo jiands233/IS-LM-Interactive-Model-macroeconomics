@@ -13,10 +13,7 @@ This project requires `streamlit` for the web interface, along with `plotly` and
 
 pip install streamlit plotly numpy
 
-2. Launch the Application
-Once the dependencies are installed, start the simulator by running:
-
 streamlit run app.py
 
 
-Tip: After running the command above, your default web browser will automatically open a new tab (usually at http://localhost:8501), and you can start interacting with the model right away!
+
